@@ -5,19 +5,21 @@ import UtilPackage.TestNGUtils;
 
 public class LoginPage {
 
-private String by_username = "input[name=txtUserName]";
 	
+	//This are Variables 
 	
+	//ORHRM Login User Name
+	private String by_username = "input[name=txtUserName]";
 	
+	//ORHRM Login Password
 	
 	private String by_passwrod ="input[name=txtPassword]";
 	
-	
+	//ORHRM Login Button
 	
 	private String by_login = "input[name=Submit]";
 	
-	
-	
+	//ORHRM Welcome Text on landing page
 	
 	private String by_welcomepage = "xpath=/html/body/div[3]/ul/li[1]";
 
@@ -38,6 +40,7 @@ private String by_username = "input[name=txtUserName]";
 	}
 	
 	
+	// This are methods 
 	
 	public String getUsername() 
 	{

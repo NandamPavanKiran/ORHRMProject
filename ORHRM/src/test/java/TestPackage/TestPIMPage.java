@@ -10,6 +10,7 @@ import UtilPackage.TestNGUtils;
 
 public class TestPIMPage extends BaseClass 
 {
+	//This is reference from another class
 	LoginPage loginpage = new LoginPage();
 	PimPage pimpage = new PimPage();
 	

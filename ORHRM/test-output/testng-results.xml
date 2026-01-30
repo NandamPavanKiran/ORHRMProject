@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-29T23:50:21 IST" name="Suite" finished-at="2026-01-29T23:50:41 IST" duration-ms="20298">
+  <suite started-at="2026-01-30T19:18:37 IST" name="Suite" finished-at="2026-01-30T19:19:21 IST" duration-ms="44166">
     <groups>
     </groups>
-    <test started-at="2026-01-29T23:50:21 IST" name="Test" finished-at="2026-01-29T23:50:41 IST" duration-ms="20298">
+    <test started-at="2026-01-30T19:18:37 IST" name="Both" finished-at="2026-01-30T19:19:21 IST" duration-ms="44166">
+      <class name="TestPackage.PraticeLogin">
+        <test-method signature="addTwoNumbers()[pri:0, instance:TestPackage.PraticeLogin@198b6731]" started-at="2026-01-30T19:19:21 IST" name="addTwoNumbers" finished-at="2026-01-30T19:19:21 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTwoNumbers -->
+      </class> <!-- TestPackage.PraticeLogin -->
       <class name="TestPackage.TestPIMPage">
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.TestPIMPage@198b6731]" started-at="2026-01-29T23:50:21 IST" name="setup" finished-at="2026-01-29T23:50:39 IST" duration-ms="17850" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPackage.TestPIMPage@74e52ef6]" started-at="2026-01-30T19:18:37 IST" name="setup" finished-at="2026-01-30T19:19:19 IST" duration-ms="42443" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="addEmpThenVerify()[pri:0, instance:TestPackage.TestPIMPage@198b6731]" started-at="2026-01-29T23:50:39 IST" name="addEmpThenVerify" finished-at="2026-01-29T23:50:41 IST" duration-ms="2166" status="PASS">
+        <test-method signature="addEmpThenVerify()[pri:0, instance:TestPackage.TestPIMPage@74e52ef6]" started-at="2026-01-30T19:19:19 IST" name="addEmpThenVerify" finished-at="2026-01-30T19:19:21 IST" duration-ms="1624" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addEmpThenVerify -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:TestPackage.TestPIMPage@198b6731]" started-at="2026-01-29T23:50:41 IST" name="teardown" finished-at="2026-01-29T23:50:41 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestPackage.TestPIMPage@74e52ef6]" started-at="2026-01-30T19:19:21 IST" name="teardown" finished-at="2026-01-30T19:19:21 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- TestPackage.TestPIMPage -->
-    </test> <!-- Test -->
+    </test> <!-- Both -->
   </suite> <!-- Suite -->
 </testng-results>
