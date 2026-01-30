@@ -11,6 +11,6 @@ public class PraticeLogin {
 	public void addTwoNumbers() 
 	{
 		c=a+b;
-		System.out.println(c);
+		System.out.println("Total Value of two numbers"+ c);
 	}
 }
