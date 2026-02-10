@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-30T20:02:30 IST" name="Default suite" finished-at="2026-01-30T20:02:30 IST" duration-ms="76">
+  <suite started-at="2026-02-10T16:47:45 IST" name="Default suite" finished-at="2026-02-10T16:47:45 IST" duration-ms="73">
     <groups>
     </groups>
-    <test started-at="2026-01-30T20:02:30 IST" name="Default test" finished-at="2026-01-30T20:02:30 IST" duration-ms="76">
+    <test started-at="2026-02-10T16:47:45 IST" name="Default test" finished-at="2026-02-10T16:47:45 IST" duration-ms="73">
       <class name="TestPackage.PraticeLogin">
-        <test-method signature="addTwoNumbers()[pri:0, instance:TestPackage.PraticeLogin@2b71e916]" started-at="2026-01-30T20:02:30 IST" name="addTwoNumbers" finished-at="2026-01-30T20:02:30 IST" duration-ms="12" status="PASS">
+        <test-method signature="addTwoNumbers()[pri:0, instance:TestPackage.PraticeLogin@5e0e82ae]" started-at="2026-02-10T16:47:45 IST" name="addTwoNumbers" finished-at="2026-02-10T16:47:45 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addTwoNumbers -->
